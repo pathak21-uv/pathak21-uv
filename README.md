@@ -88,5 +88,3 @@ const currentFocus = {
 ### 💡 Developer Philosophy
 
 > Great software is not just about writing code. It's about solving problems, creating value, and building systems that scale.
-
-⭐ Feel free to explore my repositories and connect with me!
